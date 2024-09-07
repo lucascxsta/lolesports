@@ -1,7 +1,7 @@
 let jogadorLCK = [
     { //FAKER
         nome:"Faker",
-        desc:"AAAAA Considerado por muitos o maior jogador de League of Legends de todos os tempos.",
+        desc:"Considerado por muitos o maior jogador de League of Legends de todos os tempos.",
         titulos:"4x Worlds, 2x MSI, 1 Asian Games, 1 EWC, 10x LCK.",
         times:"SK Telecom T1 K -> SK Telecom T1 -> T1",
         leaguepedia:"https://lol.fandom.com/wiki/Faker",
